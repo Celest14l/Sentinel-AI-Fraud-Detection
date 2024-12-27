@@ -66,4 +66,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-For any questions or support, feel free to open an issue or contact the maintainers at [support@sentinelai.com](mailto:support@sentinelai.com).
